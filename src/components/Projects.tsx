@@ -23,7 +23,7 @@ const Projects = () => {
       features: ['Privacy-first subscriptions', 'Anonymous payments', 'Avalanche blockchain', 'Developer bounty winner'],
       imageUrl: 'https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg?auto=compress&cs=tinysrgb&w=800',
       githubUrl: 'https://github.com/Fatumayattani/vikify',
-      liveUrl: '#'
+      liveUrl: 'https://github.com/Fatumayattani/vikify'
     },
     {
       title: 'Bitdoo',
@@ -34,7 +34,7 @@ const Projects = () => {
       features: ['P2P Bitcoin lending', 'Serves the unbanked', 'Borderless transactions', 'ICP Chain Fusion'],
       imageUrl: '/bit1.png',
       githubUrl: 'https://github.com/Fatumayattani/bitdoo',
-      liveUrl: '#'
+      liveUrl: 'https://github.com/Fatumayattani/bitdoo'
     },
     {
       title: 'DuniaDAO - Empowering Africa Through Blockchain Education',
@@ -44,7 +44,7 @@ const Projects = () => {
       bgColor: 'bg-green-50',
       features: ['Free blockchain bootcamps', 'Network certifications', 'Community building', 'African Web3 focus'],
       imageUrl: 'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800',
-      githubUrl: '#',
+      githubUrl: 'https://duniadao.com/',
       liveUrl: 'https://duniadao.com/'
     }
   ];
