@@ -43,7 +43,7 @@ const Projects = () => {
       gradient: 'from-green-400 to-emerald-500',
       bgColor: 'bg-green-50',
       features: ['Free blockchain bootcamps', 'Network certifications', 'Community building', 'African Web3 focus'],
-      imageUrl: 'https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800',
+      imageUrl: '/dunn.png',
       githubUrl: 'https://duniadao.com/',
       liveUrl: 'https://duniadao.com/'
     }
