@@ -25,12 +25,16 @@ const Contact = () => {
                   From smart contracts to full-stack dApps, I'm here to turn your Web3 ideas into reality.
                 </p>
                 <div className="flex space-x-4">
+                  <a href="mailto:fyattani@gmail.com" target="_blank" rel="noopener noreferrer">
                   <div className="w-12 h-12 bg-white/20 rounded-lg flex items-center justify-center">
-                    <Coffee className="w-6 h-6" />
+                    <Mail className="w-6 h-6" />
                   </div>
+                  </a>
+                  <a href="https://wa.me/254106220624?text=Hi%20Fatuma%2C%20I%27d%20like%20to%20chat%20with%20you%20about%20your%20services!" target="_blank" rel="noopener noreferrer" aria-label="Chat with me on WhatsApp">
                   <div className="w-12 h-12 bg-white/20 rounded-lg flex items-center justify-center">
                     <MessageCircle className="w-6 h-6" />
                   </div>
+                  </a>
                 </div>
               </div>
               {/* Floating elements */}
