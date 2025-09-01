@@ -29,7 +29,7 @@ const Hero = () => {
                     <img 
                       src="/20250228_160150.jpg" 
                       alt="Fatuma Yattani" 
-                      className="w-full h-full object-contain rounded-full bg-transparent"
+                      className="w-full object-contain rounded-full bg-transparent"
                       onError={(e) => {
                         e.currentTarget.style.display = 'none';
                         e.currentTarget.parentElement.innerHTML = '<div class="w-20 h-20 bg-gradient-to-br from-pink-400 to-purple-500 rounded-full flex items-center justify-center animate-pulse"><span class="text-white text-2xl font-bold">FY</span></div>';
