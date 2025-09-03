@@ -181,7 +181,7 @@ const Hero = () => {
                 </div>
                 <h4 className="text-sm md:text-base font-bold text-gray-900 mb-2">Fun Fact!</h4>
                 <p className="text-xs md:text-sm text-gray-600">
-                  I've deployed over 50+ smart contracts on various blockchains! 
+                  I've deployed over 20+ smart contracts on various blockchains! 
                 </p>
               </div>
             </div>
